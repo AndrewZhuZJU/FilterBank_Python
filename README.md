@@ -9,7 +9,7 @@ python code for generating Filter Bank using for image retrieval. Contents inclu
 
 ## Top5 Retrieval Results
 Filter Bank features
-![FB](Images/imagerank.png)
+![FB](Images/imageRank.png)
 
 Deep Features from ResNet101
 ![FB](Images/res101.png)
